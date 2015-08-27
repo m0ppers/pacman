@@ -28,13 +28,13 @@ favicon: img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put im
 apple_icon: img/pacman.jpg ## size:114px*114px,please put image into the theme folder `/pacman/source/img`.
 
 #### Author Avatar Picture
-author_img_enable: true ## display author avatar picture
+author_img_enable: false ## display author avatar picture
 dataURI: false
 ## if the picture's format is dataURI please set the value to true,otherwise set the value to false.
 ## convert an image into base 64 data URIs http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/ .
 author_img_data: ''
 ## paste the dataURI in ONE LINE and included it by ''.
-author_img: img/author.jpg ## size:220px*220px.
+author_img: img/author.png ## size:220px*220px.
 ## if the picture's format is `.png` or `.jpg`  instead of dataURI,you should set the `dataURI` value to false.
 
 #### Font
@@ -57,14 +57,14 @@ fancybox: false
 #### Author information
 author:
   google_plus:    ## eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998
-  intro_line1: "" ## eg: "Hello ,I'm Larry Page in Google."
-  intro_line2: "" ## eg: "This is my blog,believe it or not."
+  intro_line1: "Hi, I am Andreas Streichardt" ## eg: "Hello ,I'm Larry Page in Google."
+  intro_line2: "Cologne based web freelancer" ## eg: "This is my blog,believe it or not."
   weibo:      ## e.g. 436062867 for http://weibo.com/436062867
-  twitter:    ## e.g. yangjiansky for https://twitter.com/yangjiansky
-  github:     ## e.g. A-limon for https://github.com/A-limon
+  twitter:    "m0ppers" ## e.g. yangjiansky for https://twitter.com/yangjiansky
+  github:     "m0ppers" ## e.g. A-limon for https://github.com/A-limon
   facebook:   ## e.g. yangjian for https://favebook.com/yangjian
   tsina:      ## e.g. 1664838973  Your weibo ID,It will be used in share button.
-  linkedin:   ## e.g. in/jeffweiner08 for https://www.linkedin.com/in/jeffweiner08
+  linkedin:   "pub/andreas-streichardt/aa/181/71a"
 
 #### Comment
 duoshuo: 
